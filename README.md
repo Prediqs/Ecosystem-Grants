@@ -1,48 +1,6 @@
-<img src="./assets/logo-white.svg" alt="logo" style="height: 48px;">
 
-# ink!ubator: Ecosystem Grants<!-- omit in toc -->
 
-- [:wave: Introduction](#wave-introduction)
-  - [Guidelines](#guidelines)
-  - [Project Ideas](#project-ideas)
-  - [Bounty Levels](#bounty-levels)
-  - [Support](#support)
-  - [Team](#team)
-- [:pencil: Process](#pencil-process)
-  - [1. Application](#1-application)
-  - [2. Application Review](#2-application-review)
-  - [3. Milestone Delivery and Payment](#3-milestone-delivery-and-payment)
-  - [Changes to a Grant after Approval](#changes-to-a-grant-after-approval)
-- [:mailbox\_with\_mail: Suggest a Project](#mailbox_with_mail-suggest-a-project)
-- [:bulb: Help](#bulb-help)
-  - [Real-time conversation](#real-time-conversation)
-- [FAQ](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/FAQ.md)
-
-<img src="./assets/inkubator-tanks.svg" style="width: 100%;">
-
-## :wave: Introduction
-Ecosystem Grants are part of the **ink!ubator**, a holistic bounty program with the goal of furthering the ink! smart contracting ecosystem. This bounty program is funded by the Polkadot treasury with the support of the community.
-
-The bounty includes Curators from the following Polkadot ecosystem teams:
-- [Astar Network](https://astar.network/)
-- [Parity](https://www.parity.io/)
-- [Phala Network](https://www.phala.network/en/)
-- [Brushfam](https://brushfam.io/)
-- [Aleph Zero](https://alephzero.org/)
-
-The Ecosystem Grants focus on funding projects which will demonstrate the potential of ink! and well as those which push the ink! ecosystem forward, such as infrastructure projects or developer tooling.
-
-The Ecosystem Grants are only one aspect of the ink!ubator. For more details on the rest of the initiative see the [Polkadot Treasury Bounty Proposal](https://polkadot.polkassembly.io/bounty/19).
-
-### Guidelines
-
-Anyone is welcome to apply for a grant. This program funds projects that are dedicated to ink! ecosystem growth. We focus on strong technical ideas that contribute to ink! infrastructure, demonstate ink! potential, and unveil applicable business side thus growing the ecosystem.
-
-Generally, your project will have better chances to be accepted if:
-- It clearly shows the advantage of ink! over other smart contract languages (e.g. Solidity)
-- Your idea is innovative and contributes to the general growth of web3, Polkadot and ink! ecosystem. We would usually prefer innovation over duplication of what already exist on EVM.
-- It presents a **well-researched** or tested concept, for which ideally you are able to show some prior work.
-- You can demonstrate that the project will be **maintained** after completion of the grant if applicable.
+ the grant if applicable.
 - Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine for past activity and code quality. Naturally, you can also link to projects on other platforms.
 - Your application is **rich in technical details** and well-defined.
 
